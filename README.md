@@ -1,6 +1,11 @@
 
 ## 👋 About Me
 
+
+My past experience in Siebel OpenUI (mostly JavaScript and jQuery) isn’t reflected here, as I was too shy to share my work publicly (impostor syndrome, I guess). Now, I’m training as a Python Developer and AI Specialist—so you’ll mostly find my student projects here, which will hopefully show my progress.
+
+## ⚙️ My Mindset
+
 ### 🧠 Analytical & Technically Curious
 I thrive on understanding how things work — from physical machines to abstract systems like Unix, TCP/IP, and CRM backends. I don’t just use tools; I dig into them, optimize them, and make them better.
 
