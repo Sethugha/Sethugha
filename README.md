@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Sethugha, 
-  a backend-focused technologist with a passion for deep diving into nasty software problems, system architecture, and learning what's next. From roots in electronics over IT Infrastructure to CRM, I’m now jumping into full-stack development, Python, and AI.
 
+## 👋 About Me
 
-<!---
-Sethugha/Sethugha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Analytical & Technically Curious
+I thrive on understanding how things work — from physical machines to abstract systems like Unix, TCP/IP, and CRM backends. I don’t just use tools; I dig into them, optimize them, and make them better.
+
+### 🔄 Adaptive & Self-Reliant
+My path shows a rare ability to adapt — switching between hands-on technical roles, large-scale IT projects, and consulting. Returning to previous roles (like the engraving shop) and succeeding solo also points to being self-directed and dependable.
+
+### 🎓 Lifelong Learner
+I continuously seek out education: vocational training, specialized IT certifications, distance learning, and now modern skills like Python and AI. I’m genuinely curious and committed to growth.
+
+### 🤝 Bridge-Builder
+I don’t just speak "tech" — I’ve played the role of translator between tech and non-tech teams. This has honed my communication skills and my ability to see both strategy and detail.
+
+### 🚀 Goal-Oriented & Tenacious
+I pursue opportunities deliberately — training, planning, and working toward long-term goals (like moving toward full-stack and AI). My direction shows ambition, clarity, and patience.
+
+---
+
+**TL;DR:**  
+Pragmatic, curious, reliable, and strategically evolving.  
+I don’t chase trends — I build a foundation, master what I touch, and steadily grow into new areas.
+
+---
